@@ -1,0 +1,139 @@
+#center {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    place-content: center;
+    flex-grow: 1;
+
+    /* @media (max-width: 2500px) {
+    padding: 32px 20px 24px;
+    gap: 18px; */
+    /* } */
+}
+
+#center2 {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    /* place-content: center; */
+    margin-top: 2rem;
+    flex-grow: 1;
+
+    /* @media (max-width: 2500px) {
+    padding: 32px 20px 24px;
+    gap: 18px; */
+    /* } */
+}
+
+.title {
+    font-size: 6rem;
+}
+
+.module-button {
+    margin: 2rem;
+    padding: 0.8rem 1rem;
+    border: 1px solid #cbd5e0;
+    border-radius: 10px;
+    background-color: #7801ff;
+    /* color: #2c3e50; */
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.15s ease;
+    font-family: inherit;
+}
+
+.module-button:hover {
+    /* transform: translateY(-1px); */
+    /* border-color: #b700ff; */
+    box-shadow: 0 5px 12px #7801ff;
+}
+
+.module-button:active {
+    transform: translateY(0);
+}
+
+.subtitle {
+    margin-top: 12px;
+    font-size: 1.2rem;
+}
+
+.container {
+    padding: 30px;
+    font-family: Arial, sans-serif;
+    background: #d5d5d5;
+    min-height: 100vh;
+    color: black;
+}
+
+.upload-section {
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.filter-box {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.filter-box input {
+    padding: 8px;
+    margin-left: 10px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+}
+
+.styled-table {
+    border-collapse: collapse;
+    margin: 0 auto;
+    width: 80%;
+    background: white;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    color: black;
+}
+
+.styled-table thead {
+    background-color: #343a40;
+    color: white;
+}
+
+.styled-table th,
+.styled-table td {
+    padding: 12px 15px;
+    text-align: center;
+}
+
+.styled-table tbody tr {
+    border-bottom: 1px solid #dddddd;
+    transition:
+        transform 0.1s ease,
+        box-shadow 0.1s ease;
+}
+
+.styled-table tbody tr:hover {
+    transform: scale(1.01);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Result colors */
+
+.win {
+    background-color: #d4edda;
+}
+
+.loss {
+    background-color: #f8d7da;
+}
+
+.draw {
+    background-color: #fff3cd;
+}
+
+.rank {
+    color: yellow;
+    font-size: 1.3rem;
+}

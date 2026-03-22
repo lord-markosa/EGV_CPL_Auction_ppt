@@ -1,0 +1,80 @@
+[
+    { "name": "Sanjoy Saha", "alias": "sjs1729", "ageGrp": "41+" },
+    { "name": "Amit Kumar Singh", "alias": "singh_amit_36", "ageGrp": "41+" },
+    { "name": "Ashok Kumar Kacholia", "alias": "ashokno1", "ageGrp": "41+" },
+    { "name": "Vipul Gupta", "alias": "vipulnov1988", "ageGrp": "21-40" },
+    {
+        "name": "Antaryami Mallick (Antar)",
+        "alias": "antarmallick98",
+        "ageGrp": "21-40"
+    },
+    { "name": "Pravin Kumar", "alias": "pravin_kr", "ageGrp": "41+" },
+    {
+        "name": "Chandra Shekhar Tripathi",
+        "alias": "Chandra_S_Tripathi",
+        "ageGrp": "41+"
+    },
+    { "name": "Sanjeev Ranjan Sahay", "alias": "sanjeev2206", "ageGrp": "41+" },
+    { "name": "Kamal Agarwal", "alias": "kamalEGV", "ageGrp": "41+" },
+    { "name": "Aariv Shaha", "alias": "Aariv-Shaha", "ageGrp": "Under 12" },
+    { "name": "Anvi Shaha ", "alias": "Anvi-Shaha123", "ageGrp": "Under 12" },
+    { "name": "Rayan Das ", "alias": "RAYANDAS", "ageGrp": "Under 12" },
+    { "name": "Aditya Biswas", "alias": "bishop793", "ageGrp": "13-20" },
+    {
+        "name": "Gaurika Agarwal ",
+        "alias": "Gaurika18Agarwal",
+        "ageGrp": "Under 12"
+    },
+    { "name": "Anindya", "alias": "aninsane_lc", "ageGrp": "21-40" },
+    {
+        "name": "Devarsh Choudhury ",
+        "alias": "Dchoudhury123",
+        "ageGrp": "Under 12"
+    },
+    { "name": "Shaurya Shubham", "alias": "Shauryanamo", "ageGrp": "Under 12" },
+    { "name": "Amit Kumar Shaha", "alias": "AmitChessy", "ageGrp": "41+" },
+    { "name": "Ashay Bhawsar", "alias": "Ashay2", "ageGrp": "13-20" },
+    { "name": "Mohit kumar", "alias": "mohit_7530", "ageGrp": "41+" },
+    { "name": "Rishank Ritwik", "alias": "rishank08", "ageGrp": "Under 12" },
+    { "name": "Sekhar Das ", "alias": "sekhar_7das", "ageGrp": "41+" },
+    {
+        "name": "Subhadip Chakraborty",
+        "alias": "Subhadip1221",
+        "ageGrp": "41+"
+    },
+    { "name": "Neelabh Neeraj", "alias": "NeelabhNeeraj", "ageGrp": "21-40" },
+    {
+        "name": "Manas Choudhary ",
+        "alias": "manaschoudhary1234",
+        "ageGrp": "Under 12"
+    },
+    { "name": "Ayintik Chakraborty", "alias": "Ayintik", "ageGrp": "Under 12" },
+    { "name": "Kritarth", "alias": "", "ageGrp": "13-20" },
+    { "name": "Rishi Kacholia", "alias": "", "ageGrp": "20-40" },
+    { "name": "Amresh", "alias": "", "ageGrp": "40+" },
+    { "name": "Shoumik Das", "alias": "Shoumik-Das", "ageGrp": "13-20" },
+    { "name": "Ritvik ", "alias": "RITVIKMISHRAT71802", "ageGrp": "Under 12" },
+    { "name": "Divya Poddar", "alias": "divyapoddar", "ageGrp": "Under 12" },
+    { "name": "Aadrika Ghosh", "alias": "aadrikaghosh", "ageGrp": "Under 12" },
+    { "name": "Anuj Pandit", "alias": "fredonkulous", "ageGrp": "41+" },
+    { "name": "Prisha Pranavi", "alias": "prisha2909", "ageGrp": "Under 12" },
+    {
+        "name": "Advik Mishra ",
+        "alias": "ADVIKMISHRAT71802",
+        "ageGrp": "Under 12"
+    },
+    { "name": "Atulya Priyadarshi ", "alias": "AtulyaP_17", "ageGrp": "13-20" },
+    { "name": "Dilip Kr. Shaha", "alias": "DKShaha321", "ageGrp": "41+" },
+    { "name": "Abhishek Kumar", "alias": "", "ageGrp": "41+" },
+    { "name": "Sourav", "alias": "SouravEGV", "ageGrp": "21-40" },
+    { "name": "Turjo Banerjee", "alias": "turjo462", "ageGrp": "41+" },
+    { "name": "Amaya Singh", "alias": "Amaya_Singh", "ageGrp": "Under 12" },
+    { "name": "Priyanka Shaha", "alias": "PriyankaShaha", "ageGrp": "41+" },
+    { "name": "Koushik Das", "alias": "dKaushik", "ageGrp": "41+" },
+    { "name": "Chaiti Mandal", "alias": "Chaiti25", "ageGrp": "21-40" },
+    { "name": "Jit", "alias": "jitnad", "ageGrp": "21-40" },
+    { "name": "Subhro Tah", "alias": "ShubhroCool1", "ageGrp": "Under 12" },
+    { "name": "Sankarshan Thakur", "alias": "", "ageGrp": "Under 12" },
+    { "name": "Aradhya Shree", "alias": "", "ageGrp": "Under 12" },
+    { "name": "Vasu Naman", "alias": "", "ageGrp": "21-40" }
+]
